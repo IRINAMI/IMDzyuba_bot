@@ -4,7 +4,7 @@ Bot for communication with parents
 
 ________________________________________________________________________________________
 
-**Ссылки 1:**
+## **Ссылки 1:**
 
 Документация API: https://core.telegram.org/bots/api
 
@@ -18,7 +18,7 @@ Postman: https://www.postman.com/
 
 Insomnia: https://insomnia.rest/
 
-**Ссылки 2:**
+## **Ссылки 2:**
 
 Документация Bot API: https://core.telegram.org/bots/api
 
