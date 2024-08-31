@@ -2,7 +2,7 @@
 Bot for communication with parents
 
 
-
+________________________________________________________________________________________
 Документация API: https://core.telegram.org/bots/api
 
 Получение обновлений: https://core.telegram.org/bots/api#getupdates 
